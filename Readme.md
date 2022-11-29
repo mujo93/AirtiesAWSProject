@@ -22,7 +22,9 @@
 - Run the command `systemctl enable httpd.service` to start the server automatically. 
 - Now we should be able to see our web server running once we enter the public IP provided us by the instance. 
 <img width="1447" alt="Screenshot 2022-11-30 at 1 26 54 am" src="https://user-images.githubusercontent.com/34121683/204662110-5a771d20-06bd-4c19-b329-3d7fb76170bc.png">
-![Screenshot 2022-11-30 at 1 27 59 am](https://user-images.githubusercontent.com/34121683/204662334-e2f33b8f-31cd-421f-9105-fc83cbf1a2d9.png)
+
+![Screenshot 2022-11-30 at 1 27 59 am](https://user-images.githubusercontent.com/34121683/204668059-d74d7c26-d843-44bb-8be4-1753ceaa19b0.png)
+
 
 ### 6- Create a bucket 
 <img width="1176" alt="Screenshot 2022-11-30 at 1 30 37 am" src="https://user-images.githubusercontent.com/34121683/204662619-7b1e07a4-4752-4054-8287-fb44c57e32b6.png">
